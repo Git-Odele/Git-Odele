@@ -1,4 +1,5 @@
 👋 Hi, I’m @Git-Odele
+
 **Overview**
 
 Odele is a data science company focusing on providing data-backed solutions to questions surrounding the different fields of finance, health and technology.
@@ -20,7 +21,6 @@ All to come to an accurate conclusion on the way to make a particular decision a
 -	to provide solutions to many environmental problems such as global warming.
 
                                                                                                 Odele
-
  
  📫 How to reach me ...
 
